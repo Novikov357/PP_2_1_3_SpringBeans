@@ -1,11 +1,8 @@
 package app.model;
 
-import app.Application;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
-
-import javax.naming.Name;
 
 @Component
 public class AnimalsCage {
